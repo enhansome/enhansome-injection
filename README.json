@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Process Spawning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Process Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/DavidBuchanan314/dlinject",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-09T12:32:07Z",
+            "owner": "DavidBuchanan314",
+            "repo": "dlinject",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AonCyberLabs/Cexigua",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-08-24T13:20:13Z",
+            "owner": "strozfriedberg",
+            "repo": "Cexigua",
+            "stars": 260
+          }
+        }
+      ],
+      "title": "Proc Memory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Process Spawning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Process Injection"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:48:22.788Z",
+    "original_repository": "itaymigdal/awesome-injection",
+    "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
+    "enhanced_repository": "enhansome/enhansome-injection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Introduction with stars"
+  }
+}
