@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 583 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 584 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -133,7 +133,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Kernel Callback Table Injection
 
-* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 275 | 🐛 0 | 🌐 C | 📅 2024-10-31
+* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 276 | 🐛 0 | 🌐 C | 📅 2024-10-31
 
 #### PichichiH0ll0wer - Split Hollowing
 
@@ -157,7 +157,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Reflective Dll Injection
 
 * <https://attack.mitre.org/techniques/T1055/001/>
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,339 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,337 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
 #### PE Injection
@@ -181,7 +181,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Atom Bombing Injection
 
-* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 740 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
+* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 741 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
 
 #### Mocking jay Injection
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
