@@ -83,7 +83,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Proc Memory
 
-* <https://github.com/DavidBuchanan314/dlinject> ⭐ 827 | 🐛 11 | 🌐 Python | 📅 2025-02-09
+* <https://github.com/DavidBuchanan314/dlinject> ⭐ 826 | 🐛 11 | 🌐 Python | 📅 2025-02-09
 * <https://github.com/AonCyberLabs/Cexigua> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2017-08-24
 * <https://attack.mitre.org/techniques/T1055/009/>
 
@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 584 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 585 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -157,7 +157,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Reflective Dll Injection
 
 * <https://attack.mitre.org/techniques/T1055/001/>
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,337 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,338 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
 #### PE Injection
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
