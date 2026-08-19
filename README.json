@@ -1,63 +1,60 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Process Spawning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Process Injection"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "https://github.com/DavidBuchanan314/dlinject",
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/DavidBuchanan314/dlinject",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230845346,
+                    "language": "Python",
+                    "last_commit": "2025-02-09T12:32:07Z",
+                    "owner": "DavidBuchanan314",
+                    "repo": "dlinject",
+                    "stars": 826
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/AonCyberLabs/Cexigua",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 97025268,
+                    "language": "Shell",
+                    "last_commit": "2017-08-24T13:20:13Z",
+                    "owner": "strozfriedberg",
+                    "repo": "Cexigua",
+                    "stars": 260
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Proc Memory"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-09T12:32:07Z",
-            "owner": "DavidBuchanan314",
-            "repo": "dlinject",
-            "stars": 826
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/AonCyberLabs/Cexigua",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-08-24T13:20:13Z",
-            "owner": "strozfriedberg",
-            "repo": "Cexigua",
-            "stars": 260
-          }
+          "node_type": "group",
+          "title": "Process Injection"
         }
       ],
-      "title": "Proc Memory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Process Spawning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Process Injection"
+      "title": "Linux Injection"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:18:54.899Z",
+    "last_updated": "2026-08-19T12:33:11.412Z",
     "original_repository": "itaymigdal/awesome-injection",
+    "original_repository_id": 692396820,
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
     "enhanced_repository": "enhansome/enhansome-injection",
     "enhanced_repository_description": null,
