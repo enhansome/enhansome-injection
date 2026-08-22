@@ -157,7 +157,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Reflective Dll Injection
 
 * <https://attack.mitre.org/techniques/T1055/001/>
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,338 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,340 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
 #### PE Injection
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
