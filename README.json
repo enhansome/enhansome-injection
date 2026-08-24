@@ -9,6 +9,57 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "https://github.com/outflanknl/seccomp-notify-injection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1110855573,
+                    "language": "C",
+                    "last_commit": "2025-12-09T18:07:13Z",
+                    "owner": "outflanknl",
+                    "repo": "seccomp-notify-injection",
+                    "stars": 95
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Seccomp Notifier"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Process Spawning"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/kubo/injector",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 127613195,
+                    "language": "C",
+                    "last_commit": "2025-09-27T12:15:20Z",
+                    "owner": "kubo",
+                    "repo": "injector",
+                    "stars": 618
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PTRACE"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "https://github.com/DavidBuchanan314/dlinject",
                   "description": null,
                   "children": [],
@@ -19,7 +70,7 @@
                     "last_commit": "2025-02-09T12:32:07Z",
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 826
+                    "stars": 827
                   }
                 },
                 {
@@ -49,10 +100,734 @@
         }
       ],
       "title": "Linux Injection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hasherezade/transacted_hollowing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 374123614,
+                    "language": "C",
+                    "last_commit": "2024-03-08T12:38:43Z",
+                    "owner": "hasherezade",
+                    "repo": "transacted_hollowing",
+                    "stars": 586
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Transacted Hollowing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hasherezade/process_doppelganging",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114461315,
+                    "language": "C",
+                    "last_commit": "2022-08-30T17:24:29Z",
+                    "owner": "hasherezade",
+                    "repo": "process_doppelganging",
+                    "stars": 652
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Process Doppelganging"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/jxy-s/herpaderping",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278176624,
+                    "language": "C++",
+                    "last_commit": "2023-07-05T17:04:57Z",
+                    "owner": "jxy-s",
+                    "repo": "herpaderping",
+                    "stars": 1208
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Process Herpaderping"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hasherezade/process_ghosting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 377331830,
+                    "language": "C",
+                    "last_commit": "2024-03-11T18:23:06Z",
+                    "owner": "hasherezade",
+                    "repo": "process_ghosting",
+                    "stars": 700
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Process Ghosting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/S3cur3Th1sSh1t/Ruy-Lopez",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636999513,
+                    "language": "C",
+                    "last_commit": "2023-06-28T11:48:40Z",
+                    "owner": "S3cur3Th1sSh1t",
+                    "repo": "Ruy-Lopez",
+                    "stars": 323
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ruy-Lopez"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/Cracked5pider/earlycascade-injection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 885038973,
+                    "language": "C++",
+                    "last_commit": "2024-11-07T21:09:25Z",
+                    "owner": "Cracked5pider",
+                    "repo": "earlycascade-injection",
+                    "stars": 241
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Early Cascade Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/0xHossam/KernelCallbackTable-Injection-PoC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 878614092,
+                    "language": "C",
+                    "last_commit": "2024-10-31T09:29:38Z",
+                    "owner": "0xHossam",
+                    "repo": "KernelCallbackTable-Injection-PoC",
+                    "stars": 276
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Kernel Callback Table Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/itaymigdal/PichichiH0ll0wer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628339327,
+                    "language": "Nim",
+                    "last_commit": "2025-07-22T05:27:09Z",
+                    "owner": "itaymigdal",
+                    "repo": "PichichiH0ll0wer",
+                    "stars": 65
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PichichiH0ll0wer - Split Hollowing"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Process Spawning"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/DrNseven/SetWindowsHookEx-Injector",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 172803454,
+                    "language": "C",
+                    "last_commit": "2023-04-18T21:03:42Z",
+                    "owner": "DrNseven",
+                    "repo": "SetWindowsHookEx-Injector",
+                    "stars": 186
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dll Injection via SetWindowsHookEx"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/stephenfewer/ReflectiveDLLInjection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2709176,
+                    "language": "C",
+                    "last_commit": "2022-09-03T17:48:42Z",
+                    "owner": "stephenfewer",
+                    "repo": "ReflectiveDLLInjection",
+                    "stars": 3341
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reflective Dll Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/BreakingMalwareResearch/atom-bombing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72101379,
+                    "language": "C++",
+                    "last_commit": "2020-10-07T09:20:05Z",
+                    "owner": "BreakingMalwareResearch",
+                    "repo": "atom-bombing",
+                    "stars": 741
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Atom Bombing Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/BreakingMalware/PowerLoaderEx",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40599234,
+                    "language": "C++",
+                    "last_commit": "2017-04-17T07:53:44Z",
+                    "owner": "BreakingMalware",
+                    "repo": "PowerLoaderEx",
+                    "stars": 385
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Extra Window Memory Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/CCob/ThreadlessInject",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 597737870,
+                    "language": "C#",
+                    "last_commit": "2024-09-04T17:11:58Z",
+                    "owner": "CCob",
+                    "repo": "ThreadlessInject",
+                    "stars": 825
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ThreadlessInject"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/Kudaes/EPI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 646868036,
+                    "language": "Rust",
+                    "last_commit": "2024-09-10T19:37:47Z",
+                    "owner": "Kudaes",
+                    "repo": "EPI",
+                    "stars": 356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "EPI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/Dec0ne/DllNotificationInjection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 678359621,
+                    "language": "C++",
+                    "last_commit": "2023-08-23T13:50:27Z",
+                    "owner": "Dec0ne",
+                    "repo": "DllNotificationInjection",
+                    "stars": 470
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DllNotification Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/TheD1rkMtr/D1rkInject",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 673598129,
+                    "language": "C++",
+                    "last_commit": "2023-08-02T02:45:46Z",
+                    "owner": "SaadAhla",
+                    "repo": "D1rkInject",
+                    "stars": 187
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "D1rkInject"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 603912073,
+                    "language": "C",
+                    "last_commit": "2023-04-29T14:50:52Z",
+                    "owner": "LloydLabs",
+                    "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
+                    "stars": 267
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NtQueueAPCThreadEx Gadget Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/deepinstinct/Dirty-Vanity",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 570104770,
+                    "language": "C",
+                    "last_commit": "2022-12-23T10:54:10Z",
+                    "owner": "deepinstinct",
+                    "repo": "Dirty-Vanity",
+                    "stars": 678
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dirty-Vanity"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/Idov31/FunctionStomping",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 451106499,
+                    "language": "Rust",
+                    "last_commit": "2023-09-26T18:06:33Z",
+                    "owner": "Idov31",
+                    "repo": "FunctionStomping",
+                    "stars": 706
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Function Stomping"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/S3cur3Th1sSh1t/Caro-Kann",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690458768,
+                    "language": "C",
+                    "last_commit": "2023-09-12T08:31:50Z",
+                    "owner": "S3cur3Th1sSh1t",
+                    "repo": "Caro-Kann",
+                    "stars": 430
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Caro-Kann"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/maziland/StackBombing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231781558,
+                    "language": "C++",
+                    "last_commit": "2020-07-09T19:24:38Z",
+                    "owner": "maziland",
+                    "repo": "StackBombing",
+                    "stars": 55
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Stack Bombing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/woldann/GhostInjector",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 989970389,
+                    "language": "C",
+                    "last_commit": "2025-12-01T04:57:57Z",
+                    "owner": "woldann",
+                    "repo": "GhostInjector",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ghost Injector"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/c0de90e7/GhostWriting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 126836288,
+                    "language": "C",
+                    "last_commit": "2018-03-26T13:57:19Z",
+                    "owner": "c0de90e7",
+                    "repo": "GhostWriting",
+                    "stars": 199
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ghost Writing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/fern89/ghostwriting-2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 732561641,
+                    "language": "C",
+                    "last_commit": "2023-12-18T14:10:19Z",
+                    "owner": "fern89",
+                    "repo": "ghostwriting-2",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ghost Writing 2"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/antonioCoco/Mapping-Injection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231602462,
+                    "language": "Assembly",
+                    "last_commit": "2020-08-07T19:21:13Z",
+                    "owner": "antonioCoco",
+                    "repo": "Mapping-Injection",
+                    "stars": 408
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mapping Injection with Instrumentation Callback"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/OtterHacker/SetProcessInjection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699238951,
+                    "language": "C",
+                    "last_commit": "2023-10-02T09:23:42Z",
+                    "owner": "OtterHacker",
+                    "repo": "SetProcessInjection",
+                    "stars": 155
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SetProcessInjection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/SafeBreach-Labs/PoolParty",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643583366,
+                    "language": "C++",
+                    "last_commit": "2023-12-11T10:52:05Z",
+                    "owner": "SafeBreach-Labs",
+                    "repo": "PoolParty",
+                    "stars": 1284
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pool Party Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hasherezade/thread_namecalling",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 832898028,
+                    "language": "C",
+                    "last_commit": "2025-04-18T12:40:20Z",
+                    "owner": "hasherezade",
+                    "repo": "thread_namecalling",
+                    "stars": 312
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Thread Name Calling"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hasherezade/waiting_thread_hijacking",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 944062384,
+                    "language": "C",
+                    "last_commit": "2025-08-31T13:32:55Z",
+                    "owner": "hasherezade",
+                    "repo": "waiting_thread_hijacking",
+                    "stars": 267
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Waiting Thread Hijacking"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/Friends-Security/RedirectThread",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 962256265,
+                    "language": "C++",
+                    "last_commit": "2025-06-17T13:25:50Z",
+                    "owner": "Friends-Security",
+                    "repo": "RedirectThread",
+                    "stars": 207
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RedirectThread Context Injection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/RWXstoned/LdrShuffle",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 996144669,
+                    "language": "C++",
+                    "last_commit": "2025-06-04T14:23:47Z",
+                    "owner": "RWXstoned",
+                    "repo": "LdrShuffle",
+                    "stars": 288
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Overwriting Loaded DLL EntryPoint"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 680667833,
+                    "language": "C++",
+                    "last_commit": "2026-06-27T01:48:02Z",
+                    "owner": "g3tsyst3m",
+                    "repo": "CodefromBlog",
+                    "stars": 118
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Living Of The Process by g3tsyst3m"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Process Injection"
+        }
+      ],
+      "title": "Windows Injection"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:09:41.810Z",
+    "last_updated": "2026-08-24T14:19:07.566Z",
     "original_repository": "itaymigdal/awesome-injection",
     "original_repository_id": 692396820,
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",

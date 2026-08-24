@@ -71,19 +71,19 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Seccomp Notifier
 
-* <https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/>
 * <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 95 | 🐛 0 | 🌐 C | 📅 2025-12-09
+* <https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/>
 
 ## Process Injection
 
 #### PTRACE
 
-* <https://attack.mitre.org/techniques/T1055/008/>
 * <https://github.com/kubo/injector> ⚠️ Archived
+* <https://attack.mitre.org/techniques/T1055/008/>
 
 #### Proc Memory
 
-* <https://github.com/DavidBuchanan314/dlinject> ⭐ 826 | 🐛 11 | 🌐 Python | 📅 2025-02-09
+* <https://github.com/DavidBuchanan314/dlinject> ⭐ 827 | 🐛 11 | 🌐 Python | 📅 2025-02-09
 * <https://github.com/AonCyberLabs/Cexigua> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2017-08-24
 * <https://attack.mitre.org/techniques/T1055/009/>
 
@@ -102,8 +102,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Doppelganging
 
-* <https://attack.mitre.org/techniques/T1055/013/>
 * <https://github.com/hasherezade/process_doppelganging> ⭐ 652 | 🐛 2 | 🌐 C | 📅 2022-08-30
+* <https://attack.mitre.org/techniques/T1055/013/>
 
 #### Process Herpaderping
 
@@ -128,8 +128,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Early Cascade Injection
 
-* <https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/>
 * <https://github.com/Cracked5pider/earlycascade-injection> ⚠️ Archived
+* <https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/>
 
 #### Kernel Callback Table Injection
 
@@ -156,8 +156,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,341 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,340 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
 #### PE Injection
@@ -194,8 +194,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Extra Window Memory Injection
 
-* <https://attack.mitre.org/techniques/T1055/011/>
 * <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 385 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
+* <https://attack.mitre.org/techniques/T1055/011/>
 
 #### ThreadlessInject
 
@@ -256,8 +256,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 * <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,284 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
 
@@ -266,13 +266,13 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Waiting Thread Hijacking
 
-* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 266 | 🐛 0 | 🌐 C | 📅 2025-08-31
+* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 267 | 🐛 0 | 🌐 C | 📅 2025-08-31
 * <https://research.checkpoint.com/2025/waiting-thread-hijacking/>
 
 #### RedirectThread Context Injection
 
-* <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 * <https://github.com/Friends-Security/RedirectThread> ⭐ 207 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
 
@@ -280,9 +280,9 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Living Of The Process by g3tsyst3m
 
-* <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 * <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
+* <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
