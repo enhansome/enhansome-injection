@@ -164,7 +164,7 @@
                     "last_commit": "2023-07-05T17:04:57Z",
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1208
+                    "stars": 1209
                   }
                 }
               ],
@@ -325,7 +325,7 @@
                     "last_commit": "2022-09-03T17:48:42Z",
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3342
+                    "stars": 3343
                   }
                 }
               ],
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:50.843Z",
+    "last_updated": "2026-08-25T14:31:14.563Z",
     "original_repository": "itaymigdal/awesome-injection",
     "original_repository_id": 692396820,
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",

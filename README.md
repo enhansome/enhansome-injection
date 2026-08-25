@@ -107,7 +107,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,208 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,209 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,342 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,343 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
