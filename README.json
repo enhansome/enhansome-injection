@@ -9,7 +9,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/outflanknl/seccomp-notify-injection",
+                  "title": "outflanknl/seccomp-notify-injection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -38,7 +38,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kubo/injector",
+                  "title": "kubo/injector",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -60,7 +60,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/DavidBuchanan314/dlinject",
+                  "title": "DavidBuchanan314/dlinject",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -75,7 +75,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/AonCyberLabs/Cexigua",
+                  "title": "strozfriedberg/Cexigua",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -110,7 +110,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hasherezade/transacted_hollowing",
+                  "title": "hasherezade/transacted_hollowing",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -132,7 +132,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hasherezade/process_doppelganging",
+                  "title": "hasherezade/process_doppelganging",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -154,7 +154,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/jxy-s/herpaderping",
+                  "title": "jxy-s/herpaderping",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -176,7 +176,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hasherezade/process_ghosting",
+                  "title": "hasherezade/process_ghosting",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -198,7 +198,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/S3cur3Th1sSh1t/Ruy-Lopez",
+                  "title": "S3cur3Th1sSh1t/Ruy-Lopez",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -220,7 +220,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Cracked5pider/earlycascade-injection",
+                  "title": "Cracked5pider/earlycascade-injection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -242,7 +242,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/0xHossam/KernelCallbackTable-Injection-PoC",
+                  "title": "0xHossam/KernelCallbackTable-Injection-PoC",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -264,7 +264,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/itaymigdal/PichichiH0ll0wer",
+                  "title": "itaymigdal/PichichiH0ll0wer",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -293,7 +293,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/DrNseven/SetWindowsHookEx-Injector",
+                  "title": "DrNseven/SetWindowsHookEx-Injector",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -315,7 +315,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/stephenfewer/ReflectiveDLLInjection",
+                  "title": "stephenfewer/ReflectiveDLLInjection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -325,7 +325,7 @@
                     "last_commit": "2022-09-03T17:48:42Z",
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3341
+                    "stars": 3342
                   }
                 }
               ],
@@ -337,7 +337,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/BreakingMalwareResearch/atom-bombing",
+                  "title": "BreakingMalwareResearch/atom-bombing",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -359,7 +359,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/BreakingMalware/PowerLoaderEx",
+                  "title": "BreakingMalware/PowerLoaderEx",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -381,7 +381,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/CCob/ThreadlessInject",
+                  "title": "CCob/ThreadlessInject",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -403,7 +403,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Kudaes/EPI",
+                  "title": "Kudaes/EPI",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -425,7 +425,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Dec0ne/DllNotificationInjection",
+                  "title": "Dec0ne/DllNotificationInjection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -447,7 +447,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TheD1rkMtr/D1rkInject",
+                  "title": "SaadAhla/D1rkInject",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -469,7 +469,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
+                  "title": "LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -491,7 +491,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/deepinstinct/Dirty-Vanity",
+                  "title": "deepinstinct/Dirty-Vanity",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -513,7 +513,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Idov31/FunctionStomping",
+                  "title": "Idov31/FunctionStomping",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -535,7 +535,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/S3cur3Th1sSh1t/Caro-Kann",
+                  "title": "S3cur3Th1sSh1t/Caro-Kann",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -557,7 +557,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/maziland/StackBombing",
+                  "title": "maziland/StackBombing",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -579,7 +579,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/woldann/GhostInjector",
+                  "title": "woldann/GhostInjector",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -601,7 +601,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/c0de90e7/GhostWriting",
+                  "title": "c0de90e7/GhostWriting",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -623,7 +623,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fern89/ghostwriting-2",
+                  "title": "fern89/ghostwriting-2",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -645,7 +645,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/antonioCoco/Mapping-Injection",
+                  "title": "antonioCoco/Mapping-Injection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -667,7 +667,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/OtterHacker/SetProcessInjection",
+                  "title": "OtterHacker/SetProcessInjection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -689,7 +689,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/SafeBreach-Labs/PoolParty",
+                  "title": "SafeBreach-Labs/PoolParty",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -711,7 +711,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hasherezade/thread_namecalling",
+                  "title": "hasherezade/thread_namecalling",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -733,7 +733,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hasherezade/waiting_thread_hijacking",
+                  "title": "hasherezade/waiting_thread_hijacking",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -755,7 +755,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Friends-Security/RedirectThread",
+                  "title": "Friends-Security/RedirectThread",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -777,7 +777,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/RWXstoned/LdrShuffle",
+                  "title": "RWXstoned/LdrShuffle",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -799,7 +799,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog",
+                  "title": "g3tsyst3m/CodefromBlog",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:44.695Z",
+    "last_updated": "2026-08-25T06:11:50.843Z",
     "original_repository": "itaymigdal/awesome-injection",
     "original_repository_id": 692396820,
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
