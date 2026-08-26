@@ -102,12 +102,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Doppelganging
 
-* <https://github.com/hasherezade/process_doppelganging> ⭐ 652 | 🐛 2 | 🌐 C | 📅 2022-08-30
+* <https://github.com/hasherezade/process_doppelganging> ⭐ 653 | 🐛 2 | 🌐 C | 📅 2022-08-30
 * <https://attack.mitre.org/techniques/T1055/013/>
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,209 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,210 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dll Injection via SetWindowsHookEx
 
-* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 186 | 🐛 0 | 🌐 C | 📅 2023-04-18
+* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 188 | 🐛 0 | 🌐 C | 📅 2023-04-18
 
 #### Reflective Dll Injection
 
@@ -227,7 +227,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 430 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 431 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
@@ -271,7 +271,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 207 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 208 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

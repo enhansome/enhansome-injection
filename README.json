@@ -142,7 +142,7 @@
                     "last_commit": "2022-08-30T17:24:29Z",
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 652
+                    "stars": 653
                   }
                 }
               ],
@@ -164,7 +164,7 @@
                     "last_commit": "2023-07-05T17:04:57Z",
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1209
+                    "stars": 1210
                   }
                 }
               ],
@@ -303,7 +303,7 @@
                     "last_commit": "2023-04-18T21:03:42Z",
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
-                    "stars": 186
+                    "stars": 188
                   }
                 }
               ],
@@ -545,7 +545,7 @@
                     "last_commit": "2023-09-12T08:31:50Z",
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 430
+                    "stars": 431
                   }
                 }
               ],
@@ -765,7 +765,7 @@
                     "last_commit": "2025-06-17T13:25:50Z",
                     "owner": "Friends-Security",
                     "repo": "RedirectThread",
-                    "stars": 207
+                    "stars": 208
                   }
                 }
               ],
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:31:14.563Z",
+    "last_updated": "2026-08-26T14:31:01.007Z",
     "original_repository": "itaymigdal/awesome-injection",
     "original_repository_id": 692396820,
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
