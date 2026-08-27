@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,343 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,344 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -211,7 +211,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### D1rkInject
 
-* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 187 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
+* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 188 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
 
 #### NtQueueAPCThreadEx Gadget Injection
 
@@ -239,12 +239,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ghost Writing
 
-* <https://github.com/c0de90e7/GhostWriting> ⭐ 199 | 🐛 0 | 🌐 C | 📅 2018-03-26
+* <https://github.com/c0de90e7/GhostWriting> ⭐ 200 | 🐛 0 | 🌐 C | 📅 2018-03-26
 * <https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf>
 
 #### Ghost Writing 2
 
-* <https://github.com/fern89/ghostwriting-2> ⭐ 42 | 🐛 0 | 🌐 C | 📅 2023-12-18
+* <https://github.com/fern89/ghostwriting-2> ⭐ 43 | 🐛 0 | 🌐 C | 📅 2023-12-18
 
 #### Mapping Injection with Instrumentation Callback
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

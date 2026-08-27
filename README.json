@@ -325,7 +325,7 @@
                     "last_commit": "2022-09-03T17:48:42Z",
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3343
+                    "stars": 3344
                   }
                 }
               ],
@@ -457,7 +457,7 @@
                     "last_commit": "2023-08-02T02:45:46Z",
                     "owner": "SaadAhla",
                     "repo": "D1rkInject",
-                    "stars": 187
+                    "stars": 188
                   }
                 }
               ],
@@ -611,7 +611,7 @@
                     "last_commit": "2018-03-26T13:57:19Z",
                     "owner": "c0de90e7",
                     "repo": "GhostWriting",
-                    "stars": 199
+                    "stars": 200
                   }
                 }
               ],
@@ -633,7 +633,7 @@
                     "last_commit": "2023-12-18T14:10:19Z",
                     "owner": "fern89",
                     "repo": "ghostwriting-2",
-                    "stars": 42
+                    "stars": 43
                   }
                 }
               ],
@@ -827,9 +827,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:31:01.007Z",
-    "original_repository": "itaymigdal/awesome-injection",
-    "original_repository_id": 692396820,
+    "last_updated": "2026-08-27T11:47:13.688Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 692396820,
+      "language": null,
+      "last_commit": "2026-02-01T11:09:37Z",
+      "owner": "itaymigdal",
+      "repo": "awesome-injection",
+      "stars": 707
+    },
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
     "enhanced_repository": "enhansome/enhansome-injection",
     "enhanced_repository_description": null,
