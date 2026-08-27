@@ -48,7 +48,7 @@
                     "last_commit": "2025-09-27T12:15:20Z",
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 618
+                    "stars": 617
                   }
                 }
               ],
@@ -325,7 +325,7 @@
                     "last_commit": "2022-09-03T17:48:42Z",
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3344
+                    "stars": 3345
                   }
                 }
               ],
@@ -677,7 +677,7 @@
                     "last_commit": "2023-10-02T09:23:42Z",
                     "owner": "OtterHacker",
                     "repo": "SetProcessInjection",
-                    "stars": 155
+                    "stars": 154
                   }
                 }
               ],
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:13.688Z",
+    "last_updated": "2026-08-27T23:14:54.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 692396820,

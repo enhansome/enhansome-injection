@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,344 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,345 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -252,7 +252,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### SetProcessInjection
 
-* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 155 | 🐛 1 | 🌐 C | 📅 2023-10-02
+* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 154 | 🐛 1 | 🌐 C | 📅 2023-10-02
 
 #### Pool Party Injection
 
