@@ -207,7 +207,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### DllNotification Injection
 
-* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 470 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
+* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 471 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
 
 #### D1rkInject
 
@@ -227,7 +227,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 431 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 432 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,284 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,283 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -271,12 +271,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 208 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 289 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

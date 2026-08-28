@@ -20,7 +20,8 @@
                     "owner": "outflanknl",
                     "repo": "seccomp-notify-injection",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -49,7 +50,8 @@
                     "owner": "kubo",
                     "repo": "injector",
                     "stars": 617
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -71,7 +73,8 @@
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
                     "stars": 827
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +89,8 @@
                     "owner": "strozfriedberg",
                     "repo": "Cexigua",
                     "stars": 260
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -121,7 +125,8 @@
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
                     "stars": 586
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -143,7 +148,8 @@
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
                     "stars": 653
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -165,7 +171,8 @@
                     "owner": "jxy-s",
                     "repo": "herpaderping",
                     "stars": 1210
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -187,7 +194,8 @@
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
                     "stars": 700
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -209,7 +217,8 @@
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Ruy-Lopez",
                     "stars": 323
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -231,7 +240,8 @@
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
                     "stars": 241
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -253,7 +263,8 @@
                     "owner": "0xHossam",
                     "repo": "KernelCallbackTable-Injection-PoC",
                     "stars": 276
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -275,7 +286,8 @@
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -304,7 +316,8 @@
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -326,7 +339,8 @@
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
                     "stars": 3345
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -348,7 +362,8 @@
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
                     "stars": 741
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -370,7 +385,8 @@
                     "owner": "BreakingMalware",
                     "repo": "PowerLoaderEx",
                     "stars": 385
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -392,7 +408,8 @@
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
                     "stars": 825
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -414,7 +431,8 @@
                     "owner": "Kudaes",
                     "repo": "EPI",
                     "stars": 356
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -435,8 +453,9 @@
                     "last_commit": "2023-08-23T13:50:27Z",
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 470
-                  }
+                    "stars": 471
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -458,7 +477,8 @@
                     "owner": "SaadAhla",
                     "repo": "D1rkInject",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -480,7 +500,8 @@
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
                     "stars": 267
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -502,7 +523,8 @@
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
                     "stars": 678
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -524,7 +546,8 @@
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
                     "stars": 706
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -545,8 +568,9 @@
                     "last_commit": "2023-09-12T08:31:50Z",
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 431
-                  }
+                    "stars": 432
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -568,7 +592,8 @@
                     "owner": "maziland",
                     "repo": "StackBombing",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -590,7 +615,8 @@
                     "owner": "woldann",
                     "repo": "GhostInjector",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -612,7 +638,8 @@
                     "owner": "c0de90e7",
                     "repo": "GhostWriting",
                     "stars": 200
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -634,7 +661,8 @@
                     "owner": "fern89",
                     "repo": "ghostwriting-2",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -656,7 +684,8 @@
                     "owner": "antonioCoco",
                     "repo": "Mapping-Injection",
                     "stars": 408
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -678,7 +707,8 @@
                     "owner": "OtterHacker",
                     "repo": "SetProcessInjection",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -699,8 +729,9 @@
                     "last_commit": "2023-12-11T10:52:05Z",
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1284
-                  }
+                    "stars": 1283
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -722,7 +753,8 @@
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
                     "stars": 312
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -744,7 +776,8 @@
                     "owner": "hasherezade",
                     "repo": "waiting_thread_hijacking",
                     "stars": 267
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -765,8 +798,9 @@
                     "last_commit": "2025-06-17T13:25:50Z",
                     "owner": "Friends-Security",
                     "repo": "RedirectThread",
-                    "stars": 208
-                  }
+                    "stars": 209
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -787,8 +821,9 @@
                     "last_commit": "2025-06-04T14:23:47Z",
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 288
-                  }
+                    "stars": 289
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -810,7 +845,8 @@
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:56.482Z"
                 }
               ],
               "description": null,
@@ -827,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:54.890Z",
+    "last_updated": "2026-08-28T23:13:56.482Z",
     "original_repository_info": {
       "archived": false,
       "id": 692396820,
