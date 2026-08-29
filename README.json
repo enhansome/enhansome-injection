@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux Process Injection via Seccomp Notifier",
+                    "homepage": null,
                     "id": 1110855573,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-09T18:07:13Z",
+                    "open_issues": 0,
                     "owner": "outflanknl",
                     "repo": "seccomp-notify-injection",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -44,12 +49,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Library for injecting a shared library into a Linux or Windows process",
+                    "homepage": null,
                     "id": 127613195,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-09-27T12:15:20Z",
+                    "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 617
+                    "stars": 617,
+                    "topics": [
+                      "code-injection",
+                      "dll-injection",
+                      "injection",
+                      "injector"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -67,12 +82,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace",
+                    "homepage": null,
                     "id": 230845346,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-09T12:32:07Z",
+                    "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 827
+                    "stars": 827,
+                    "topics": [
+                      "assembly",
+                      "ld-preload",
+                      "linux",
+                      "procfs",
+                      "ptrace",
+                      "python3",
+                      "shellcode",
+                      "shellcode-injection",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 },
@@ -83,12 +113,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux based inter-process code injection without ptrace(2)",
+                    "homepage": null,
                     "id": 97025268,
                     "language": "Shell",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-08-24T13:20:13Z",
+                    "open_issues": 0,
                     "owner": "strozfriedberg",
                     "repo": "Cexigua",
-                    "stars": 260
+                    "stars": 260,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -119,12 +154,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging",
+                    "homepage": null,
                     "id": 374123614,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-03-08T12:38:43Z",
+                    "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 586
+                    "stars": 586,
+                    "topics": [
+                      "code-injection",
+                      "malware",
+                      "pe-injector",
+                      "pefile"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -142,12 +187,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My implementation of enSilo's Process Doppelganging (PE injection technique)",
+                    "homepage": "https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/",
                     "id": 114461315,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2022-08-30T17:24:29Z",
+                    "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 653
+                    "stars": 653,
+                    "topics": [
+                      "malware",
+                      "pe-injector",
+                      "process-doppelganging"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -165,12 +219,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.",
+                    "homepage": null,
                     "id": 278176624,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-07-05T17:04:57Z",
+                    "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1210
+                    "stars": 1210,
+                    "topics": [
+                      "antivirus",
+                      "antivirus-evasion",
+                      "exploit",
+                      "exploit-development",
+                      "exploit-framework",
+                      "exploitation",
+                      "exploits",
+                      "process-doppelganging",
+                      "process-herpaderping",
+                      "process-hollowing",
+                      "process-migration",
+                      "security",
+                      "security-vulnerability",
+                      "vulnerability",
+                      "windows",
+                      "windows-10",
+                      "windows-7",
+                      "windows-defender"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -188,12 +266,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file",
+                    "homepage": null,
                     "id": 377331830,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-03-11T18:23:06Z",
+                    "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
-                    "stars": 700
+                    "stars": 700,
+                    "topics": [
+                      "pe-injection",
+                      "pe-injector",
+                      "pefile"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -211,12 +298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 636999513,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-06-28T11:48:40Z",
+                    "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Ruy-Lopez",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -234,12 +326,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "early cascade injection PoC based on Outflanks blog post",
+                    "homepage": null,
                     "id": 885038973,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2024-11-07T21:09:25Z",
+                    "open_issues": 0,
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -257,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Proof of Concept for manipulating the Kernel Callback Table in the Process Environment Block (PEB) to perform process injection and hijack execution flow.",
+                    "homepage": null,
                     "id": 878614092,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-10-31T09:29:38Z",
+                    "open_issues": 0,
                     "owner": "0xHossam",
                     "repo": "KernelCallbackTable-Injection-PoC",
-                    "stars": 276
+                    "stars": 276,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -280,12 +382,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nim process hollowing loader",
+                    "homepage": null,
                     "id": 628339327,
                     "language": "Nim",
+                    "license": "MIT",
                     "last_commit": "2025-07-22T05:27:09Z",
+                    "open_issues": 0,
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": [
+                      "edr-bypass",
+                      "edr-evasion",
+                      "loader",
+                      "payload-generator",
+                      "payload-injector",
+                      "pe-loader",
+                      "penetration-testing",
+                      "penetration-testing-tools",
+                      "process-hollowing",
+                      "process-injection",
+                      "red-team",
+                      "red-team-tools",
+                      "runpe",
+                      "syscalls"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -310,12 +432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SetWindowsHookEx Injector",
+                    "homepage": null,
                     "id": 172803454,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-04-18T21:03:42Z",
+                    "open_issues": 0,
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -333,12 +460,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.",
+                    "homepage": null,
                     "id": 2709176,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-09-03T17:48:42Z",
+                    "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3345
+                    "stars": 3345,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -356,12 +488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Brand New Code Injection for Windows",
+                    "homepage": "https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows",
                     "id": 72101379,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2020-10-07T09:20:05Z",
+                    "open_issues": 9,
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
-                    "stars": 741
+                    "stars": 741,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -379,12 +516,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PowerLoaderEx - Advanced Code Injection Technique for x32 / x64",
+                    "homepage": null,
                     "id": 40599234,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2017-04-17T07:53:44Z",
+                    "open_issues": 3,
                     "owner": "BreakingMalware",
                     "repo": "PowerLoaderEx",
-                    "stars": 385
+                    "stars": 385,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -402,12 +544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Threadless Process Injection using remote function hooking. ",
+                    "homepage": null,
                     "id": 597737870,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-09-04T17:11:58Z",
+                    "open_issues": 0,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 825
+                    "stars": 825,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -425,12 +572,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Threadless Process Injection through entry point hijacking",
+                    "homepage": null,
                     "id": 646868036,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-09-10T19:37:47Z",
+                    "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 356
+                    "stars": 356,
+                    "topics": [
+                      "edr-evasion",
+                      "hacking",
+                      "redteam",
+                      "rust",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -448,12 +606,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.",
+                    "homepage": null,
                     "id": 678359621,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2023-08-23T13:50:27Z",
+                    "open_issues": 3,
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 471
+                    "stars": 471,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -471,12 +634,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Another approach of Threadless injection discovered by @_EthicalChaos_ in c that loads a module into the target process and stomps it, and reverting back memory protections and original memory state",
+                    "homepage": null,
                     "id": 673598129,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-08-02T02:45:46Z",
+                    "open_issues": 0,
                     "owner": "SaadAhla",
                     "repo": "D1rkInject",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -494,12 +662,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This novel way of using NtQueueApcThreadEx by abusing the ApcRoutine and SystemArgument[0-3] parameters by passing a random pop r32; ret gadget can be used for stealthy code injection. ",
+                    "homepage": "https://blog.syscall.party",
                     "id": 603912073,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2023-04-29T14:50:52Z",
+                    "open_issues": 1,
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": [
+                      "process-injection",
+                      "shellcode",
+                      "shellcode-injection"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -517,12 +694,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html#dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417",
+                    "homepage": null,
                     "id": 570104770,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2022-12-23T10:54:10Z",
+                    "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 678
+                    "stars": 678,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -540,12 +722,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Shellcode injection technique. Given as C++ header, standalone Rust program or library.",
+                    "homepage": "https://idov31.github.io/2022/01/28/function-stomping.html",
                     "id": 451106499,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-09-26T18:06:33Z",
+                    "open_issues": 0,
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
-                    "stars": 706
+                    "stars": 706,
+                    "topics": [
+                      "attack",
+                      "cpp",
+                      "cyber",
+                      "cybersecurity",
+                      "injection",
+                      "methodology",
+                      "rust",
+                      "shellcode",
+                      "shellcode-injection",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -563,12 +761,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Encrypted shellcode Injection to avoid Kernel triggered memory scans ",
+                    "homepage": null,
                     "id": 690458768,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-09-12T08:31:50Z",
+                    "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 432
+                    "stars": 432,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -586,12 +789,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next gen process injection technique",
+                    "homepage": null,
                     "id": 231781558,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2020-07-09T19:24:38Z",
+                    "open_issues": 0,
                     "owner": "maziland",
                     "repo": "StackBombing",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -609,12 +817,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stealthy DLL injector using thread hijacking and remote gadgets — no OpenProcess or CreateRemoteThread.",
+                    "homepage": null,
                     "id": 989970389,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-01T04:57:57Z",
+                    "open_issues": 1,
                     "owner": "woldann",
                     "repo": "GhostInjector",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "dll-hijacking",
+                      "dll-injection",
+                      "dll-injector",
+                      "dllinjector",
+                      "game-hacking",
+                      "ghost",
+                      "hacking-tools",
+                      "inject",
+                      "injecting",
+                      "injection",
+                      "injection-attacks",
+                      "injector",
+                      "injector-games",
+                      "injector-x64",
+                      "silent",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -632,12 +862,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GhostWriting Injection Technique.",
+                    "homepage": null,
                     "id": 126836288,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-03-26T13:57:19Z",
+                    "open_issues": 0,
                     "owner": "c0de90e7",
                     "repo": "GhostWriting",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -655,12 +890,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A process injection technique using only thread context manipulation",
+                    "homepage": null,
                     "id": 732561641,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-12-18T14:10:19Z",
+                    "open_issues": 0,
                     "owner": "fern89",
                     "repo": "ghostwriting-2",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "pe-injector"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -678,12 +920,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Just another Windows Process Injection",
+                    "homepage": null,
                     "id": 231602462,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2020-08-07T19:21:13Z",
+                    "open_issues": 0,
                     "owner": "antonioCoco",
                     "repo": "Mapping-Injection",
-                    "stars": 408
+                    "stars": 408,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -701,12 +948,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 699238951,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-10-02T09:23:42Z",
+                    "open_issues": 1,
                     "owner": "OtterHacker",
                     "repo": "SetProcessInjection",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -724,12 +976,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of fully-undetectable process injection techniques abusing Windows Thread Pools",
+                    "homepage": null,
                     "id": 643583366,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-12-11T10:52:05Z",
+                    "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1283
+                    "stars": 1283,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -747,12 +1004,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Process Injection using Thread Name",
+                    "homepage": "https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/",
                     "id": 832898028,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-04-18T12:40:20Z",
+                    "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 312
+                    "stars": 312,
+                    "topics": [
+                      "processinjection",
+                      "redteam",
+                      "shellcode-injection",
+                      "shellcode-injector"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -770,12 +1037,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Waiting Thread Hijacking - injection by overwriting the return address of a waiting thread",
+                    "homepage": "https://research.checkpoint.com/2025/waiting-thread-hijacking/",
                     "id": 944062384,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-08-31T13:32:55Z",
+                    "open_issues": 0,
                     "owner": "hasherezade",
                     "repo": "waiting_thread_hijacking",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": [
+                      "processinjection",
+                      "redteam",
+                      "shellcode-injection",
+                      "shellcode-injector"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -793,12 +1070,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Playing around with Thread Context Hijacking. Building more evasive primitives to use as alternative for existing process injection techniques",
+                    "homepage": null,
                     "id": 962256265,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-06-17T13:25:50Z",
+                    "open_issues": 2,
                     "owner": "Friends-Security",
                     "repo": "RedirectThread",
-                    "stars": 209
+                    "stars": 209,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -816,12 +1098,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code execution/injection technique using DLL PEB module structure manipulation",
+                    "homepage": null,
                     "id": 996144669,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-06-04T14:23:47Z",
+                    "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -839,12 +1126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code I write in my blog",
+                    "homepage": null,
                     "id": 680667833,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-06-27T01:48:02Z",
+                    "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -863,15 +1155,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:56.482Z",
+    "last_updated": "2026-08-29T04:39:13.986Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Centralized resource for listing and organizing known injection techniques and POCs",
+      "homepage": null,
       "id": 692396820,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-01T11:09:37Z",
+      "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 707
+      "stars": 707,
+      "topics": [
+        "awesome-list",
+        "process-injection"
+      ]
     },
     "original_repository_sha": "59b1c3ce1571519db709a9982804fc9bc093a97c",
     "enhanced_repository": "enhansome/enhansome-injection",
