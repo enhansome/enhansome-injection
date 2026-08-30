@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3345,
+                    "stars": 3347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1107,7 +1107,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 289,
+                    "stars": 288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:25:21.196Z",
+    "last_updated": "2026-08-30T17:48:12.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
