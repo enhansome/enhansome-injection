@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,347 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,348 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,283 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,284 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
