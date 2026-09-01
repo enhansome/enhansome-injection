@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 618,
+                    "stars": 617,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3348,
+                    "stars": 3349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -615,7 +615,7 @@
                     "open_issues": 3,
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 471,
+                    "stars": 470,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -671,7 +671,7 @@
                     "open_issues": 1,
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": [
                       "process-injection",
                       "shellcode",
@@ -1107,7 +1107,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 288,
+                    "stars": 287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1135,7 +1135,7 @@
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:42:45.999Z",
+    "last_updated": "2026-09-01T17:28:05.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",

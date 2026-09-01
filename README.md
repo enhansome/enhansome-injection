@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,348 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,349 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -207,7 +207,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### DllNotification Injection
 
-* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 471 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
+* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 470 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
 
 #### D1rkInject
 
@@ -215,7 +215,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### NtQueueAPCThreadEx Gadget Injection
 
-* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 267 | 🐛 1 | 🌐 C | 📅 2023-04-29
+* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 268 | 🐛 1 | 🌐 C | 📅 2023-04-29
 
 #### Dirty-Vanity
 
@@ -276,13 +276,13 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
-* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
+* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 119 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
 * <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
