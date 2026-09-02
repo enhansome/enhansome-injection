@@ -83,7 +83,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Proc Memory
 
-* <https://github.com/DavidBuchanan314/dlinject> ⭐ 827 | 🐛 11 | 🌐 Python | 📅 2025-02-09
+* <https://github.com/DavidBuchanan314/dlinject> ⭐ 828 | 🐛 11 | 🌐 Python | 📅 2025-02-09
 * <https://github.com/AonCyberLabs/Cexigua> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2017-08-24
 * <https://attack.mitre.org/techniques/T1055/009/>
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,349 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,350 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -271,12 +271,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 210 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
