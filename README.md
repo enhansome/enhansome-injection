@@ -83,7 +83,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Proc Memory
 
-* <https://github.com/DavidBuchanan314/dlinject> ⭐ 828 | 🐛 11 | 🌐 Python | 📅 2025-02-09
+* <https://github.com/DavidBuchanan314/dlinject> ⭐ 829 | 🐛 11 | 🌐 Python | 📅 2025-02-09
 * <https://github.com/AonCyberLabs/Cexigua> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2017-08-24
 * <https://attack.mitre.org/techniques/T1055/009/>
 
@@ -111,7 +111,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 700 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -199,7 +199,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### ThreadlessInject
 
-* <https://github.com/CCob/ThreadlessInject> ⭐ 825 | 🐛 0 | 🌐 C# | 📅 2024-09-04
+* <https://github.com/CCob/ThreadlessInject> ⭐ 824 | 🐛 0 | 🌐 C# | 📅 2024-09-04
 
 #### EPI
 
@@ -231,7 +231,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Stack Bombing
 
-* <https://github.com/maziland/StackBombing> ⭐ 55 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
+* <https://github.com/maziland/StackBombing> ⭐ 54 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
 
 #### Ghost Injector
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,284 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,285 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -276,7 +276,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

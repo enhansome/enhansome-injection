@@ -91,7 +91,7 @@
                     "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 828,
+                    "stars": 829,
                     "topics": [
                       "assembly",
                       "ld-preload",
@@ -275,7 +275,7 @@
                     "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
-                    "stars": 700,
+                    "stars": 699,
                     "topics": [
                       "pe-injection",
                       "pe-injector",
@@ -553,7 +553,7 @@
                     "open_issues": 0,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 825,
+                    "stars": 824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -798,7 +798,7 @@
                     "open_issues": 0,
                     "owner": "maziland",
                     "repo": "StackBombing",
-                    "stars": 55,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -985,7 +985,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1284,
+                    "stars": 1285,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1107,7 +1107,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 288,
+                    "stars": 287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:23:38.046Z",
+    "last_updated": "2026-09-04T17:11:25.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1167,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 707,
+      "stars": 706,
       "topics": [
         "awesome-list",
         "process-injection"
