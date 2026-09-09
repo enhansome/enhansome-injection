@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,353 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,354 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -203,7 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 356 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 357 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
