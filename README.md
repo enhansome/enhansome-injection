@@ -71,7 +71,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Seccomp Notifier
 
-* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 95 | 🐛 0 | 🌐 C | 📅 2025-12-09
+* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 96 | 🐛 0 | 🌐 C | 📅 2025-12-09
 * <https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/>
 
 ## Process Injection
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,354 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,356 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
