@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:20:50.398Z",
+    "last_updated": "2026-09-12T16:34:02.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1167,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 707,
+      "stars": 709,
       "topics": [
         "awesome-list",
         "process-injection"
