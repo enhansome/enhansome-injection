@@ -107,11 +107,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,212 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,211 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 700 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -137,7 +137,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### PichichiH0ll0wer - Split Hollowing
 
-* <https://github.com/itaymigdal/PichichiH0ll0wer> ⭐ 65 | 🐛 0 | 🌐 Nim | 📅 2025-07-22
+* <https://github.com/itaymigdal/PichichiH0ll0wer> ⭐ 64 | 🐛 0 | 🌐 Nim | 📅 2025-07-22
 
 ## Process Injection
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,358 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,359 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -199,7 +199,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### ThreadlessInject
 
-* <https://github.com/CCob/ThreadlessInject> ⭐ 824 | 🐛 0 | 🌐 C# | 📅 2024-09-04
+* <https://github.com/CCob/ThreadlessInject> ⭐ 825 | 🐛 0 | 🌐 C# | 📅 2024-09-04
 
 #### EPI
 
@@ -207,7 +207,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### DllNotification Injection
 
-* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 470 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
+* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 469 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
 
 #### D1rkInject
 
@@ -231,7 +231,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Stack Bombing
 
-* <https://github.com/maziland/StackBombing> ⭐ 54 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
+* <https://github.com/maziland/StackBombing> ⭐ 55 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
 
 #### Ghost Injector
 
@@ -239,7 +239,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ghost Writing
 
-* <https://github.com/c0de90e7/GhostWriting> ⭐ 200 | 🐛 0 | 🌐 C | 📅 2018-03-26
+* <https://github.com/c0de90e7/GhostWriting> ⭐ 199 | 🐛 0 | 🌐 C | 📅 2018-03-26
 * <https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf>
 
 #### Ghost Writing 2
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,287 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,286 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -276,7 +276,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
