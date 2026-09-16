@@ -98,20 +98,20 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 587 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 586 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
-* <https://github.com/hasherezade/process_doppelganging> ⭐ 653 | 🐛 2 | 🌐 C | 📅 2022-08-30
+* <https://github.com/hasherezade/process_doppelganging> ⭐ 652 | 🐛 2 | 🌐 C | 📅 2022-08-30
 * <https://attack.mitre.org/techniques/T1055/013/>
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,211 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,210 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 700 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -133,7 +133,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Kernel Callback Table Injection
 
-* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 276 | 🐛 0 | 🌐 C | 📅 2024-10-31
+* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 275 | 🐛 0 | 🌐 C | 📅 2024-10-31
 
 #### PichichiH0ll0wer - Split Hollowing
 
@@ -181,7 +181,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Atom Bombing Injection
 
-* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 741 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
+* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 740 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
 
 #### Mocking jay Injection
 
@@ -194,20 +194,20 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Extra Window Memory Injection
 
-* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 385 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
+* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 384 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
 * <https://attack.mitre.org/techniques/T1055/011/>
 
 #### ThreadlessInject
 
-* <https://github.com/CCob/ThreadlessInject> ⭐ 825 | 🐛 0 | 🌐 C# | 📅 2024-09-04
+* <https://github.com/CCob/ThreadlessInject> ⭐ 824 | 🐛 0 | 🌐 C# | 📅 2024-09-04
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 357 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 356 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
-* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 469 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
+* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 468 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
 
 #### D1rkInject
 
@@ -215,11 +215,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### NtQueueAPCThreadEx Gadget Injection
 
-* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 268 | 🐛 1 | 🌐 C | 📅 2023-04-29
+* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 267 | 🐛 1 | 🌐 C | 📅 2023-04-29
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 678 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 677 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -252,16 +252,16 @@ I've been thinking about putting together a list of process injection techniques
 
 #### SetProcessInjection
 
-* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 154 | 🐛 1 | 🌐 C | 📅 2023-10-02
+* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 153 | 🐛 1 | 🌐 C | 📅 2023-10-02
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,286 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,285 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 312 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 310 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
@@ -271,7 +271,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 210 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
