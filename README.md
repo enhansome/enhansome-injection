@@ -71,7 +71,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Seccomp Notifier
 
-* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 96 | 🐛 0 | 🌐 C | 📅 2025-12-09
+* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 95 | 🐛 0 | 🌐 C | 📅 2025-12-09
 * <https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/>
 
 ## Process Injection
@@ -98,20 +98,20 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 586 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 585 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
-* <https://github.com/hasherezade/process_doppelganging> ⭐ 652 | 🐛 2 | 🌐 C | 📅 2022-08-30
+* <https://github.com/hasherezade/process_doppelganging> ⭐ 651 | 🐛 2 | 🌐 C | 📅 2022-08-30
 * <https://attack.mitre.org/techniques/T1055/013/>
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,210 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,209 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,359 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,358 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -194,20 +194,20 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Extra Window Memory Injection
 
-* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 384 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
+* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 383 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
 * <https://attack.mitre.org/techniques/T1055/011/>
 
 #### ThreadlessInject
 
-* <https://github.com/CCob/ThreadlessInject> ⭐ 824 | 🐛 0 | 🌐 C# | 📅 2024-09-04
+* <https://github.com/CCob/ThreadlessInject> ⭐ 823 | 🐛 0 | 🌐 C# | 📅 2024-09-04
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 356 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 355 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
-* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 468 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
+* <https://github.com/Dec0ne/DllNotificationInjection> ⭐ 467 | 🐛 3 | 🌐 C++ | 📅 2023-08-23
 
 #### D1rkInject
 
@@ -215,11 +215,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### NtQueueAPCThreadEx Gadget Injection
 
-* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 267 | 🐛 1 | 🌐 C | 📅 2023-04-29
+* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 266 | 🐛 1 | 🌐 C | 📅 2023-04-29
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 677 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 676 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -239,7 +239,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ghost Writing
 
-* <https://github.com/c0de90e7/GhostWriting> ⭐ 199 | 🐛 0 | 🌐 C | 📅 2018-03-26
+* <https://github.com/c0de90e7/GhostWriting> ⭐ 198 | 🐛 0 | 🌐 C | 📅 2018-03-26
 * <https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf>
 
 #### Ghost Writing 2
@@ -248,41 +248,41 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Mapping Injection with Instrumentation Callback
 
-* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 408 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
+* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 407 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
 
 #### SetProcessInjection
 
-* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 153 | 🐛 1 | 🌐 C | 📅 2023-10-02
+* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 152 | 🐛 1 | 🌐 C | 📅 2023-10-02
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,285 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,284 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 310 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 309 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
 
-* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 267 | 🐛 0 | 🌐 C | 📅 2025-08-31
+* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 266 | 🐛 0 | 🌐 C | 📅 2025-08-31
 * <https://research.checkpoint.com/2025/waiting-thread-hijacking/>
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 208 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
-* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 120 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
+* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 119 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
 * <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

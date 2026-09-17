@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "outflanknl",
                     "repo": "seccomp-notify-injection",
-                    "stars": 96,
+                    "stars": 95,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 586,
+                    "stars": 585,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -196,7 +196,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 652,
+                    "stars": 651,
                     "topics": [
                       "malware",
                       "pe-injector",
@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1210,
+                    "stars": 1209,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -275,7 +275,7 @@
                     "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
-                    "stars": 699,
+                    "stars": 698,
                     "topics": [
                       "pe-injection",
                       "pe-injector",
@@ -335,7 +335,7 @@
                     "open_issues": 0,
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
-                    "stars": 241,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3359,
+                    "stars": 3358,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -525,7 +525,7 @@
                     "open_issues": 3,
                     "owner": "BreakingMalware",
                     "repo": "PowerLoaderEx",
-                    "stars": 384,
+                    "stars": 383,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -553,7 +553,7 @@
                     "open_issues": 0,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 824,
+                    "stars": 823,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -581,7 +581,7 @@
                     "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 356,
+                    "stars": 355,
                     "topics": [
                       "edr-evasion",
                       "hacking",
@@ -615,7 +615,7 @@
                     "open_issues": 3,
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 468,
+                    "stars": 467,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -671,7 +671,7 @@
                     "open_issues": 1,
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
-                    "stars": 267,
+                    "stars": 266,
                     "topics": [
                       "process-injection",
                       "shellcode",
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 677,
+                    "stars": 676,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -731,7 +731,7 @@
                     "open_issues": 0,
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
-                    "stars": 705,
+                    "stars": 704,
                     "topics": [
                       "attack",
                       "cpp",
@@ -871,7 +871,7 @@
                     "open_issues": 0,
                     "owner": "c0de90e7",
                     "repo": "GhostWriting",
-                    "stars": 199,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -929,7 +929,7 @@
                     "open_issues": 0,
                     "owner": "antonioCoco",
                     "repo": "Mapping-Injection",
-                    "stars": 408,
+                    "stars": 407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -957,7 +957,7 @@
                     "open_issues": 1,
                     "owner": "OtterHacker",
                     "repo": "SetProcessInjection",
-                    "stars": 153,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -985,7 +985,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1285,
+                    "stars": 1284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1013,7 +1013,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 310,
+                    "stars": 309,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1046,7 +1046,7 @@
                     "open_issues": 0,
                     "owner": "hasherezade",
                     "repo": "waiting_thread_hijacking",
-                    "stars": 267,
+                    "stars": 266,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1079,7 +1079,7 @@
                     "open_issues": 2,
                     "owner": "Friends-Security",
                     "repo": "RedirectThread",
-                    "stars": 209,
+                    "stars": 208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1107,7 +1107,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 288,
+                    "stars": 287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1135,7 +1135,7 @@
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
-                    "stars": 120,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:46:05.182Z",
+    "last_updated": "2026-09-17T17:45:36.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1167,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 709,
+      "stars": 711,
       "topics": [
         "awesome-list",
         "process-injection"
