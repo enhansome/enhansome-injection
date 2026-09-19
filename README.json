@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3358,
+                    "stars": 3357,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -731,7 +731,7 @@
                     "open_issues": 0,
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
-                    "stars": 704,
+                    "stars": 705,
                     "topics": [
                       "attack",
                       "cpp",
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:17:39.644Z",
+    "last_updated": "2026-09-19T16:50:15.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
