@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,357 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,358 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -181,7 +181,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Atom Bombing Injection
 
-* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 740 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
+* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 739 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
 
 #### Mocking jay Injection
 
@@ -261,7 +261,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 309 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 310 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
@@ -280,9 +280,9 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Living Of The Process by g3tsyst3m
 
-* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 119 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
+* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 120 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
 * <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
