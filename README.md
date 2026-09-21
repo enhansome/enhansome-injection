@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 585 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 586 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -271,7 +271,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 208 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
