@@ -124,7 +124,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ruy-Lopez
 
-* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 323 | 🐛 0 | 🌐 C | 📅 2023-06-28
+* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 322 | 🐛 0 | 🌐 C | 📅 2023-06-28
 
 #### Early Cascade Injection
 
@@ -203,7 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 355 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 354 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -211,7 +211,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### D1rkInject
 
-* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 188 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
+* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 187 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
 
 #### NtQueueAPCThreadEx Gadget Injection
 
@@ -227,7 +227,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 432 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 431 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
@@ -280,9 +280,9 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Living Of The Process by g3tsyst3m
 
-* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 120 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
+* <https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog> ⭐ 121 | 🐛 0 | 🌐 C++ | 📅 2026-06-27
 * <https://g3tsyst3m.com/lotp/Living-off-the-Process/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

@@ -307,7 +307,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Ruy-Lopez",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -581,7 +581,7 @@
                     "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 355,
+                    "stars": 354,
                     "topics": [
                       "edr-evasion",
                       "hacking",
@@ -643,7 +643,7 @@
                     "open_issues": 0,
                     "owner": "SaadAhla",
                     "repo": "D1rkInject",
-                    "stars": 188,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -770,7 +770,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 432,
+                    "stars": 431,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1135,7 +1135,7 @@
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:46:33.891Z",
+    "last_updated": "2026-09-23T17:59:34.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1167,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 713,
+      "stars": 712,
       "topics": [
         "awesome-list",
         "process-injection"
