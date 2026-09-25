@@ -107,7 +107,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,208 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,209 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
@@ -124,7 +124,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ruy-Lopez
 
-* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 322 | 🐛 0 | 🌐 C | 📅 2023-06-28
+* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 323 | 🐛 0 | 🌐 C | 📅 2023-06-28
 
 #### Early Cascade Injection
 
@@ -203,7 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 354 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 355 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -211,7 +211,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### D1rkInject
 
-* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 187 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
+* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 188 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
 
 #### NtQueueAPCThreadEx Gadget Injection
 
@@ -227,7 +227,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 431 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 433 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,285 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,287 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
