@@ -124,7 +124,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ruy-Lopez
 
-* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 323 | 🐛 0 | 🌐 C | 📅 2023-06-28
+* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 324 | 🐛 0 | 🌐 C | 📅 2023-06-28
 
 #### Early Cascade Injection
 
@@ -256,17 +256,17 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,287 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,288 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 310 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 309 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
 
-* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 266 | 🐛 0 | 🌐 C | 📅 2025-08-31
+* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 267 | 🐛 0 | 🌐 C | 📅 2025-08-31
 * <https://research.checkpoint.com/2025/waiting-thread-hijacking/>
 
 #### RedirectThread Context Injection
@@ -276,7 +276,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 287 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 288 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
