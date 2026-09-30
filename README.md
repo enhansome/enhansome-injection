@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 591 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 599 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -124,7 +124,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ruy-Lopez
 
-* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 324 | 🐛 0 | 🌐 C | 📅 2023-06-28
+* <https://github.com/S3cur3Th1sSh1t/Ruy-Lopez> ⭐ 323 | 🐛 0 | 🌐 C | 📅 2023-06-28
 
 #### Early Cascade Injection
 
@@ -133,7 +133,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Kernel Callback Table Injection
 
-* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 275 | 🐛 0 | 🌐 C | 📅 2024-10-31
+* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 274 | 🐛 0 | 🌐 C | 📅 2024-10-31
 
 #### PichichiH0ll0wer - Split Hollowing
 
@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dll Injection via SetWindowsHookEx
 
-* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 189 | 🐛 0 | 🌐 C | 📅 2023-04-18
+* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 190 | 🐛 0 | 🌐 C | 📅 2023-04-18
 
 #### Reflective Dll Injection
 
@@ -199,11 +199,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### ThreadlessInject
 
-* <https://github.com/CCob/ThreadlessInject> ⭐ 823 | 🐛 0 | 🌐 C# | 📅 2024-09-04
+* <https://github.com/CCob/ThreadlessInject> ⭐ 822 | 🐛 0 | 🌐 C# | 📅 2024-09-04
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 355 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 354 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -219,7 +219,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 677 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 676 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -227,11 +227,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 433 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 432 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
-* <https://github.com/maziland/StackBombing> ⭐ 55 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
+* <https://github.com/maziland/StackBombing> ⭐ 54 | 🐛 0 | 🌐 C++ | 📅 2020-07-09
 
 #### Ghost Injector
 
@@ -248,15 +248,15 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Mapping Injection with Instrumentation Callback
 
-* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 407 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
+* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 406 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
 
 #### SetProcessInjection
 
-* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 152 | 🐛 1 | 🌐 C | 📅 2023-10-02
+* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 151 | 🐛 1 | 🌐 C | 📅 2023-10-02
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,288 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,287 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

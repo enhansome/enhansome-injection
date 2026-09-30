@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 591,
+                    "stars": 599,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -307,7 +307,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Ruy-Lopez",
-                    "stars": 324,
+                    "stars": 323,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -335,7 +335,7 @@
                     "open_issues": 0,
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
-                    "stars": 241,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -363,7 +363,7 @@
                     "open_issues": 0,
                     "owner": "0xHossam",
                     "repo": "KernelCallbackTable-Injection-PoC",
-                    "stars": 275,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -441,7 +441,7 @@
                     "open_issues": 0,
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -553,7 +553,7 @@
                     "open_issues": 0,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 823,
+                    "stars": 822,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -581,7 +581,7 @@
                     "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 355,
+                    "stars": 354,
                     "topics": [
                       "edr-evasion",
                       "hacking",
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 677,
+                    "stars": 676,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -731,7 +731,7 @@
                     "open_issues": 0,
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
-                    "stars": 707,
+                    "stars": 706,
                     "topics": [
                       "attack",
                       "cpp",
@@ -770,7 +770,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 433,
+                    "stars": 432,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -798,7 +798,7 @@
                     "open_issues": 0,
                     "owner": "maziland",
                     "repo": "StackBombing",
-                    "stars": 55,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -929,7 +929,7 @@
                     "open_issues": 0,
                     "owner": "antonioCoco",
                     "repo": "Mapping-Injection",
-                    "stars": 407,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -957,7 +957,7 @@
                     "open_issues": 1,
                     "owner": "OtterHacker",
                     "repo": "SetProcessInjection",
-                    "stars": 152,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -985,7 +985,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1288,
+                    "stars": 1287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:54:48.832Z",
+    "last_updated": "2026-09-30T18:37:04.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
