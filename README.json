@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -196,7 +196,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 651,
+                    "stars": 650,
                     "topics": [
                       "malware",
                       "pe-injector",
@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1210,
+                    "stars": 1209,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -497,7 +497,7 @@
                     "open_issues": 9,
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
-                    "stars": 739,
+                    "stars": 738,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -671,7 +671,7 @@
                     "open_issues": 1,
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": [
                       "process-injection",
                       "shellcode",
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 676,
+                    "stars": 674,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -731,7 +731,7 @@
                     "open_issues": 0,
                     "owner": "Idov31",
                     "repo": "FunctionStomping",
-                    "stars": 706,
+                    "stars": 705,
                     "topics": [
                       "attack",
                       "cpp",
@@ -985,7 +985,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1287,
+                    "stars": 1286,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1013,7 +1013,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:04:53.507Z",
+    "last_updated": "2026-10-02T18:44:37.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
