@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "outflanknl/seccomp-notify-injection",
-                  "description": null,
+                  "description": "outflanknl/seccomp-notify-injection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -45,7 +45,7 @@
                 {
                   "node_type": "item",
                   "title": "kubo/injector",
-                  "description": null,
+                  "description": "kubo/injector",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -78,7 +78,7 @@
                 {
                   "node_type": "item",
                   "title": "DavidBuchanan314/dlinject",
-                  "description": null,
+                  "description": "DavidBuchanan314/dlinject",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -109,7 +109,7 @@
                 {
                   "node_type": "item",
                   "title": "strozfriedberg/Cexigua",
-                  "description": null,
+                  "description": "strozfriedberg/Cexigua",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -150,7 +150,7 @@
                 {
                   "node_type": "item",
                   "title": "hasherezade/transacted_hollowing",
-                  "description": null,
+                  "description": "hasherezade/transacted_hollowing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -183,7 +183,7 @@
                 {
                   "node_type": "item",
                   "title": "hasherezade/process_doppelganging",
-                  "description": null,
+                  "description": "hasherezade/process_doppelganging",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -215,7 +215,7 @@
                 {
                   "node_type": "item",
                   "title": "jxy-s/herpaderping",
-                  "description": null,
+                  "description": "jxy-s/herpaderping",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -262,7 +262,7 @@
                 {
                   "node_type": "item",
                   "title": "hasherezade/process_ghosting",
-                  "description": null,
+                  "description": "hasherezade/process_ghosting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -294,7 +294,7 @@
                 {
                   "node_type": "item",
                   "title": "S3cur3Th1sSh1t/Ruy-Lopez",
-                  "description": null,
+                  "description": "S3cur3Th1sSh1t/Ruy-Lopez",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -322,7 +322,7 @@
                 {
                   "node_type": "item",
                   "title": "Cracked5pider/earlycascade-injection",
-                  "description": null,
+                  "description": "Cracked5pider/earlycascade-injection",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -350,7 +350,7 @@
                 {
                   "node_type": "item",
                   "title": "0xHossam/KernelCallbackTable-Injection-PoC",
-                  "description": null,
+                  "description": "0xHossam/KernelCallbackTable-Injection-PoC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -378,7 +378,7 @@
                 {
                   "node_type": "item",
                   "title": "itaymigdal/PichichiH0ll0wer",
-                  "description": null,
+                  "description": "itaymigdal/PichichiH0ll0wer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -428,7 +428,7 @@
                 {
                   "node_type": "item",
                   "title": "DrNseven/SetWindowsHookEx-Injector",
-                  "description": null,
+                  "description": "DrNseven/SetWindowsHookEx-Injector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -456,7 +456,7 @@
                 {
                   "node_type": "item",
                   "title": "stephenfewer/ReflectiveDLLInjection",
-                  "description": null,
+                  "description": "stephenfewer/ReflectiveDLLInjection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -484,7 +484,7 @@
                 {
                   "node_type": "item",
                   "title": "BreakingMalwareResearch/atom-bombing",
-                  "description": null,
+                  "description": "BreakingMalwareResearch/atom-bombing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -512,7 +512,7 @@
                 {
                   "node_type": "item",
                   "title": "BreakingMalware/PowerLoaderEx",
-                  "description": null,
+                  "description": "BreakingMalware/PowerLoaderEx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -540,7 +540,7 @@
                 {
                   "node_type": "item",
                   "title": "CCob/ThreadlessInject",
-                  "description": null,
+                  "description": "CCob/ThreadlessInject",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -568,7 +568,7 @@
                 {
                   "node_type": "item",
                   "title": "Kudaes/EPI",
-                  "description": null,
+                  "description": "Kudaes/EPI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -602,7 +602,7 @@
                 {
                   "node_type": "item",
                   "title": "Dec0ne/DllNotificationInjection",
-                  "description": null,
+                  "description": "Dec0ne/DllNotificationInjection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "SaadAhla/D1rkInject",
-                  "description": null,
+                  "description": "SaadAhla/D1rkInject",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -658,7 +658,7 @@
                 {
                   "node_type": "item",
                   "title": "LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
-                  "description": null,
+                  "description": "LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -690,7 +690,7 @@
                 {
                   "node_type": "item",
                   "title": "deepinstinct/Dirty-Vanity",
-                  "description": null,
+                  "description": "deepinstinct/Dirty-Vanity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -718,7 +718,7 @@
                 {
                   "node_type": "item",
                   "title": "Idov31/FunctionStomping",
-                  "description": null,
+                  "description": "Idov31/FunctionStomping",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -757,7 +757,7 @@
                 {
                   "node_type": "item",
                   "title": "S3cur3Th1sSh1t/Caro-Kann",
-                  "description": null,
+                  "description": "S3cur3Th1sSh1t/Caro-Kann",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -785,7 +785,7 @@
                 {
                   "node_type": "item",
                   "title": "maziland/StackBombing",
-                  "description": null,
+                  "description": "maziland/StackBombing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -813,7 +813,7 @@
                 {
                   "node_type": "item",
                   "title": "woldann/GhostInjector",
-                  "description": null,
+                  "description": "woldann/GhostInjector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -858,7 +858,7 @@
                 {
                   "node_type": "item",
                   "title": "c0de90e7/GhostWriting",
-                  "description": null,
+                  "description": "c0de90e7/GhostWriting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -886,7 +886,7 @@
                 {
                   "node_type": "item",
                   "title": "fern89/ghostwriting-2",
-                  "description": null,
+                  "description": "fern89/ghostwriting-2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -916,7 +916,7 @@
                 {
                   "node_type": "item",
                   "title": "antonioCoco/Mapping-Injection",
-                  "description": null,
+                  "description": "antonioCoco/Mapping-Injection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -944,7 +944,7 @@
                 {
                   "node_type": "item",
                   "title": "OtterHacker/SetProcessInjection",
-                  "description": null,
+                  "description": "OtterHacker/SetProcessInjection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -972,7 +972,7 @@
                 {
                   "node_type": "item",
                   "title": "SafeBreach-Labs/PoolParty",
-                  "description": null,
+                  "description": "SafeBreach-Labs/PoolParty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1000,7 +1000,7 @@
                 {
                   "node_type": "item",
                   "title": "hasherezade/thread_namecalling",
-                  "description": null,
+                  "description": "hasherezade/thread_namecalling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1033,7 +1033,7 @@
                 {
                   "node_type": "item",
                   "title": "hasherezade/waiting_thread_hijacking",
-                  "description": null,
+                  "description": "hasherezade/waiting_thread_hijacking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1066,7 +1066,7 @@
                 {
                   "node_type": "item",
                   "title": "Friends-Security/RedirectThread",
-                  "description": null,
+                  "description": "Friends-Security/RedirectThread",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1094,7 +1094,7 @@
                 {
                   "node_type": "item",
                   "title": "RWXstoned/LdrShuffle",
-                  "description": null,
+                  "description": "RWXstoned/LdrShuffle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1122,7 +1122,7 @@
                 {
                   "node_type": "item",
                   "title": "g3tsyst3m/CodefromBlog",
-                  "description": null,
+                  "description": "g3tsyst3m/CodefromBlog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:37.390Z",
+    "last_updated": "2026-10-03T04:53:55.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
