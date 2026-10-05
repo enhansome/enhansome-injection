@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 617,
+                    "stars": 616,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -91,7 +91,7 @@
                     "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 829,
+                    "stars": 830,
                     "topics": [
                       "assembly",
                       "ld-preload",
@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 604,
+                    "stars": 605,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -335,7 +335,7 @@
                     "open_issues": 0,
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
-                    "stars": 240,
+                    "stars": 239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3365,
+                    "stars": 3366,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -615,7 +615,7 @@
                     "open_issues": 3,
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 468,
+                    "stars": 467,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 675,
+                    "stars": 674,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -770,7 +770,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 432,
+                    "stars": 431,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -985,7 +985,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1286,
+                    "stars": 1285,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1131,11 +1131,11 @@
                     "id": 680667833,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-06-27T01:48:02Z",
+                    "last_commit": "2026-10-04T20:39:52Z",
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
-                    "stars": 121,
+                    "stars": 123,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:52:47.196Z",
+    "last_updated": "2026-10-05T21:28:16.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1167,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 716,
+      "stars": 715,
       "topics": [
         "awesome-list",
         "process-injection"
