@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dll Injection via SetWindowsHookEx
 
-* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 190 | 🐛 0 | 🌐 C | 📅 2023-04-18
+* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 189 | 🐛 0 | 🌐 C | 📅 2023-04-18
 
 #### Reflective Dll Injection
 
