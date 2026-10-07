@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 606,
+                    "stars": 607,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:08:09.795Z",
+    "last_updated": "2026-10-07T19:35:59.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
