@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 607 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 606 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -111,7 +111,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 697 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,370 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,371 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,286 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,285 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
