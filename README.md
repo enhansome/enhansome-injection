@@ -107,11 +107,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,213 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,214 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 697 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,372 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,371 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -219,7 +219,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 676 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 677 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
