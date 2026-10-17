@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -550,10 +550,10 @@
                     "language": "C#",
                     "license": "MIT",
                     "last_commit": "2024-09-04T17:11:58Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 823,
+                    "stars": 824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1155,7 +1155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:42:45.399Z",
+    "last_updated": "2026-10-17T16:40:18.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
