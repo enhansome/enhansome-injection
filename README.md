@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 608 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 609 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -111,7 +111,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dll Injection via SetWindowsHookEx
 
-* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 189 | 🐛 0 | 🌐 C | 📅 2023-04-18
+* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 188 | 🐛 0 | 🌐 C | 📅 2023-04-18
 
 #### Reflective Dll Injection
 
@@ -194,7 +194,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Extra Window Memory Injection
 
-* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 384 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
+* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 385 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
 * <https://attack.mitre.org/techniques/T1055/011/>
 
 #### ThreadlessInject
@@ -211,7 +211,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### D1rkInject
 
-* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 188 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
+* <https://github.com/TheD1rkMtr/D1rkInject> ⭐ 189 | 🐛 0 | 🌐 C++ | 📅 2023-08-02
 
 #### NtQueueAPCThreadEx Gadget Injection
 
@@ -252,7 +252,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### SetProcessInjection
 
-* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 152 | 🐛 1 | 🌐 C | 📅 2023-10-02
+* <https://github.com/OtterHacker/SetProcessInjection> ⭐ 153 | 🐛 1 | 🌐 C | 📅 2023-10-02
 
 #### Pool Party Injection
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
