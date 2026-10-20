@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1214,
+                    "stars": 1215,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3373,
+                    "stars": 3375,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -812,51 +812,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "woldann/GhostInjector",
-                  "description": "woldann/GhostInjector",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Stealthy DLL injector using thread hijacking and remote gadgets — no OpenProcess or CreateRemoteThread.",
-                    "homepage": null,
-                    "id": 989970389,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2025-12-01T04:57:57Z",
-                    "open_issues": 1,
-                    "owner": "woldann",
-                    "repo": "GhostInjector",
-                    "stars": 29,
-                    "topics": [
-                      "dll-hijacking",
-                      "dll-injection",
-                      "dll-injector",
-                      "dllinjector",
-                      "game-hacking",
-                      "ghost",
-                      "hacking-tools",
-                      "inject",
-                      "injecting",
-                      "injection",
-                      "injection-attacks",
-                      "injector",
-                      "injector-games",
-                      "injector-x64",
-                      "silent",
-                      "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:13:56.482Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Ghost Injector"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
                   "title": "c0de90e7/GhostWriting",
                   "description": "c0de90e7/GhostWriting",
                   "children": [],
@@ -1155,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:31:04.081Z",
+    "last_updated": "2026-10-20T18:07:50.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1167,7 +1122,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 719,
+      "stars": 718,
       "topics": [
         "awesome-list",
         "process-injection"
