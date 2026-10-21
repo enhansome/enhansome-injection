@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3375,
+                    "stars": 3376,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -553,7 +553,7 @@
                     "open_issues": 1,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 824,
+                    "stars": 823,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1110,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:07:50.133Z",
+    "last_updated": "2026-10-21T18:16:57.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1122,7 +1122,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 718,
+      "stars": 717,
       "topics": [
         "awesome-list",
         "process-injection"
