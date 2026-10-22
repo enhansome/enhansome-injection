@@ -181,7 +181,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Atom Bombing Injection
 
-* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 737 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
+* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 736 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
 
 #### Mocking jay Injection
 
@@ -203,7 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 354 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 353 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -248,7 +248,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Mapping Injection with Instrumentation Callback
 
-* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 407 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
+* <https://github.com/antonioCoco/Mapping-Injection> ⭐ 408 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07
 
 #### SetProcessInjection
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,287 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,288 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

@@ -497,7 +497,7 @@
                     "open_issues": 9,
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
-                    "stars": 737,
+                    "stars": 736,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -581,7 +581,7 @@
                     "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 354,
+                    "stars": 353,
                     "topics": [
                       "edr-evasion",
                       "hacking",
@@ -884,7 +884,7 @@
                     "open_issues": 0,
                     "owner": "antonioCoco",
                     "repo": "Mapping-Injection",
-                    "stars": 407,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -940,7 +940,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1287,
+                    "stars": 1288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1110,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:16:57.203Z",
+    "last_updated": "2026-10-22T18:11:10.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
