@@ -553,7 +553,7 @@
                     "open_issues": 1,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 823,
+                    "stars": 824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -940,7 +940,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1288,
+                    "stars": 1287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1110,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:11:10.349Z",
+    "last_updated": "2026-10-23T17:58:17.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
