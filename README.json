@@ -1062,7 +1062,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1110,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:58:17.827Z",
+    "last_updated": "2026-10-24T17:02:32.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
