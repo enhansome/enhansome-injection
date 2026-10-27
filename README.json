@@ -441,7 +441,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3378,
+                    "stars": 3379,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1058,7 +1058,7 @@
                     "id": 680667833,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-04T20:39:52Z",
+                    "last_commit": "2026-10-27T17:43:24Z",
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:36:23.428Z",
+    "last_updated": "2026-10-27T19:01:07.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
