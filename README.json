@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "outflanknl",
                     "repo": "seccomp-notify-injection",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 608,
+                    "stars": 609,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -196,7 +196,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 648,
+                    "stars": 649,
                     "topics": [
                       "malware",
                       "pe-injector",
@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1215,
+                    "stars": 1216,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -316,6 +316,34 @@
               "description": null,
               "node_type": "group",
               "title": "Ruy-Lopez"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cracked5pider/earlycascade-injection",
+                  "description": "Cracked5pider/earlycascade-injection",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "early cascade injection PoC based on Outflanks blog post",
+                    "homepage": null,
+                    "id": 885038973,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2024-11-07T21:09:25Z",
+                    "open_issues": 0,
+                    "owner": "Cracked5pider",
+                    "repo": "earlycascade-injection",
+                    "stars": 241,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T19:09:03.119Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Early Cascade Injection"
             },
             {
               "children": [
@@ -441,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3379,
+                    "stars": 3381,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -643,7 +671,7 @@
                     "open_issues": 1,
                     "owner": "LloydLabs",
                     "repo": "ntqueueapcthreadex-ntdll-gadget-injection",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": [
                       "process-injection",
                       "shellcode",
@@ -675,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 676,
+                    "stars": 677,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -827,9 +855,7 @@
                     "owner": "fern89",
                     "repo": "ghostwriting-2",
                     "stars": 43,
-                    "topics": [
-                      "pe-injector"
-                    ]
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
                 }
@@ -912,7 +938,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1286,
+                    "stars": 1287,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -940,7 +966,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1006,7 +1032,7 @@
                     "open_issues": 2,
                     "owner": "Friends-Security",
                     "repo": "RedirectThread",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1082,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:01:07.712Z",
+    "last_updated": "2026-10-28T19:09:03.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1094,7 +1120,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 716,
+      "stars": 717,
       "topics": [
         "awesome-list",
         "process-injection"
