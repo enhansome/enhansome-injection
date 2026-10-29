@@ -122,7 +122,7 @@
                     "open_issues": 0,
                     "owner": "strozfriedberg",
                     "repo": "Cexigua",
-                    "stars": 260,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -391,7 +391,7 @@
                     "open_issues": 0,
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
-                    "stars": 64,
+                    "stars": 63,
                     "topics": [
                       "edr-bypass",
                       "edr-evasion",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3381,
+                    "stars": 3383,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 677,
+                    "stars": 678,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -938,7 +938,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1287,
+                    "stars": 1286,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:09:03.119Z",
+    "last_updated": "2026-10-29T19:18:04.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1120,7 +1120,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 717,
+      "stars": 718,
       "topics": [
         "awesome-list",
         "process-injection"
