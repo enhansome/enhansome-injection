@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3383,
+                    "stars": 3384,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -938,7 +938,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1286,
+                    "stars": 1288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1082,9 +1082,9 @@
                     "description": "The code I write in my blog",
                     "homepage": null,
                     "id": 680667833,
-                    "language": "C++",
+                    "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-27T17:43:24Z",
+                    "last_commit": "2026-10-30T18:52:13Z",
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:18:04.320Z",
+    "last_updated": "2026-10-30T18:54:01.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
