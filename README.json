@@ -335,7 +335,7 @@
                     "open_issues": 0,
                     "owner": "Cracked5pider",
                     "repo": "earlycascade-injection",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T19:09:03.119Z"
@@ -1084,7 +1084,7 @@
                     "id": 680667833,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-30T18:52:13Z",
+                    "last_commit": "2026-10-30T20:24:10Z",
                     "open_issues": 0,
                     "owner": "g3tsyst3m",
                     "repo": "CodefromBlog",
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:54:01.006Z",
+    "last_updated": "2026-10-31T17:58:54.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
