@@ -966,7 +966,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:58:54.103Z",
+    "last_updated": "2026-11-01T18:37:29.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
