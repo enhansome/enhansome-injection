@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1217,
+                    "stars": 1218,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -1060,7 +1060,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 293,
+                    "stars": 294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:29:17.556Z",
+    "last_updated": "2026-11-03T20:18:06.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
