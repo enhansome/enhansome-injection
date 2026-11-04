@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,384 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,385 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -261,7 +261,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 311 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 312 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
