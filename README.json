@@ -91,7 +91,7 @@
                     "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "assembly",
                       "ld-preload",
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:34:23.765Z",
+    "last_updated": "2026-11-05T20:50:37.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
