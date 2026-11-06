@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dll Injection via SetWindowsHookEx
 
-* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 188 | 🐛 0 | 🌐 C | 📅 2023-04-18
+* <https://github.com/DrNseven/SetWindowsHookEx-Injector> ⭐ 189 | 🐛 0 | 🌐 C | 📅 2023-04-18
 
 #### Reflective Dll Injection
 
@@ -219,7 +219,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 679 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 678 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -256,7 +256,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,289 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,290 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 618,
+                    "stars": 617,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -441,7 +441,7 @@
                     "open_issues": 0,
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 679,
+                    "stars": 678,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -938,7 +938,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1289,
+                    "stars": 1290,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:50:37.817Z",
+    "last_updated": "2026-11-06T20:06:41.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1120,7 +1120,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 719,
+      "stars": 720,
       "topics": [
         "awesome-list",
         "process-injection"
