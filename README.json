@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3385,
+                    "stars": 3386,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -553,7 +553,7 @@
                     "open_issues": 1,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 824,
+                    "stars": 825,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -938,7 +938,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1290,
+                    "stars": 1291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1108,7 +1108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:06:41.519Z",
+    "last_updated": "2026-11-07T18:21:09.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
