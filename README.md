@@ -71,7 +71,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Seccomp Notifier
 
-* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 96 | 🐛 0 | 🌐 C | 📅 2025-12-09
+* <https://github.com/outflanknl/seccomp-notify-injection> ⭐ 97 | 🐛 0 | 🌐 C | 📅 2025-12-09
 * <https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/>
 
 ## Process Injection
@@ -98,11 +98,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 608 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 609 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
-* <https://github.com/hasherezade/process_doppelganging> ⭐ 648 | 🐛 2 | 🌐 C | 📅 2022-08-30
+* <https://github.com/hasherezade/process_doppelganging> ⭐ 649 | 🐛 2 | 🌐 C | 📅 2022-08-30
 * <https://attack.mitre.org/techniques/T1055/013/>
 
 #### Process Herpaderping
@@ -128,8 +128,8 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Early Cascade Injection
 
+* <https://github.com/Cracked5pider/earlycascade-injection> ⚠️ Archived
 * <https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/>
-* <https://github.com/Cracked5pider/earlycascade-injection>
 
 #### Kernel Callback Table Injection
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,386 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,387 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -215,11 +215,11 @@ I've been thinking about putting together a list of process injection techniques
 
 #### NtQueueAPCThreadEx Gadget Injection
 
-* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 267 | 🐛 1 | 🌐 C | 📅 2023-04-29
+* <https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection> ⭐ 268 | 🐛 1 | 🌐 C | 📅 2023-04-29
 
 #### Dirty-Vanity
 
-* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 677 | 🐛 1 | 🌐 C | 📅 2022-12-23
+* <https://github.com/deepinstinct/Dirty-Vanity> ⭐ 678 | 🐛 1 | 🌐 C | 📅 2022-12-23
 
 #### Function Stomping
 
@@ -256,12 +256,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Pool Party Injection
 
-* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,290 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
+* <https://github.com/SafeBreach-Labs/PoolParty> ⭐ 1,291 | 🐛 2 | 🌐 C++ | 📅 2023-12-11
 * <https://www.safebreach.com/blog/process-injection-using-windows-thread-pools>
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 311 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 312 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
@@ -271,12 +271,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### RedirectThread Context Injection
 
-* <https://github.com/Friends-Security/RedirectThread> ⭐ 209 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
+* <https://github.com/Friends-Security/RedirectThread> ⭐ 210 | 🐛 2 | 🌐 C++ | 📅 2025-06-17
 * <https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/>
 
 #### Overwriting Loaded DLL EntryPoint
 
-* <https://github.com/RWXstoned/LdrShuffle> ⭐ 294 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
+* <https://github.com/RWXstoned/LdrShuffle> ⭐ 293 | 🐛 0 | 🌐 C++ | 📅 2025-06-04
 
 #### Living Of The Process by g3tsyst3m
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
