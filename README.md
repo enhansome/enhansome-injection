@@ -235,7 +235,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ghost Injector
 
-* <https://github.com/woldann/GhostInjector>
+* <https://github.com/woldann/GhostInjector> ⭐ 29 | 🐛 1 | 🌐 C | 📅 2025-12-01
 
 #### Ghost Writing
 
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

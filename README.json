@@ -812,6 +812,51 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "woldann/GhostInjector",
+                  "description": "woldann/GhostInjector",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Stealthy DLL injector using thread hijacking and remote gadgets — no OpenProcess or CreateRemoteThread.",
+                    "homepage": null,
+                    "id": 989970389,
+                    "language": "C",
+                    "license": "MIT",
+                    "last_commit": "2025-12-01T04:57:57Z",
+                    "open_issues": 1,
+                    "owner": "woldann",
+                    "repo": "GhostInjector",
+                    "stars": 29,
+                    "topics": [
+                      "dll-hijacking",
+                      "dll-injection",
+                      "dll-injector",
+                      "dllinjector",
+                      "game-hacking",
+                      "ghost",
+                      "hacking-tools",
+                      "inject",
+                      "injecting",
+                      "injection",
+                      "injection-attacks",
+                      "injector",
+                      "injector-games",
+                      "injector-x64",
+                      "silent",
+                      "windows"
+                    ]
+                  },
+                  "first_seen": "2026-11-13T20:40:17.278Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ghost Injector"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "c0de90e7/GhostWriting",
                   "description": "c0de90e7/GhostWriting",
                   "children": [],
@@ -1108,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:09:05.845Z",
+    "last_updated": "2026-11-13T20:40:17.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1120,7 +1165,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 720,
+      "stars": 721,
       "topics": [
         "awesome-list",
         "process-injection"
