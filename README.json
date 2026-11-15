@@ -91,7 +91,7 @@
                     "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 832,
+                    "stars": 833,
                     "topics": [
                       "assembly",
                       "ld-preload",
@@ -581,7 +581,7 @@
                     "open_issues": 0,
                     "owner": "Kudaes",
                     "repo": "EPI",
-                    "stars": 354,
+                    "stars": 353,
                     "topics": [
                       "edr-evasion",
                       "hacking",
@@ -1011,7 +1011,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:45.479Z",
+    "last_updated": "2026-11-15T19:28:36.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",

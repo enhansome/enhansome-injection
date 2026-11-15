@@ -83,7 +83,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Proc Memory
 
-* <https://github.com/DavidBuchanan314/dlinject> ⭐ 832 | 🐛 11 | 🌐 Python | 📅 2025-02-09
+* <https://github.com/DavidBuchanan314/dlinject> ⭐ 833 | 🐛 11 | 🌐 Python | 📅 2025-02-09
 * <https://github.com/AonCyberLabs/Cexigua> ⭐ 259 | 🐛 0 | 🌐 Shell | 📅 2017-08-24
 * <https://attack.mitre.org/techniques/T1055/009/>
 
@@ -203,7 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EPI
 
-* <https://github.com/Kudaes/EPI> ⭐ 354 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
+* <https://github.com/Kudaes/EPI> ⭐ 353 | 🐛 0 | 🌐 Rust | 📅 2024-09-10
 
 #### DllNotification Injection
 
@@ -261,7 +261,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 312 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 313 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
