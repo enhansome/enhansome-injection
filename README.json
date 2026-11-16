@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 609,
+                    "stars": 608,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -275,7 +275,7 @@
                     "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
-                    "stars": 699,
+                    "stars": 698,
                     "topics": [
                       "pe-injection",
                       "pe-injector",
@@ -391,7 +391,7 @@
                     "open_issues": 0,
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "edr-bypass",
                       "edr-evasion",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3391,
+                    "stars": 3390,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -497,7 +497,7 @@
                     "open_issues": 9,
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
-                    "stars": 737,
+                    "stars": 738,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -525,7 +525,7 @@
                     "open_issues": 3,
                     "owner": "BreakingMalware",
                     "repo": "PowerLoaderEx",
-                    "stars": 385,
+                    "stars": 386,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:28:36.324Z",
+    "last_updated": "2026-11-16T23:03:33.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
@@ -1165,7 +1165,7 @@
       "open_issues": 1,
       "owner": "itaymigdal",
       "repo": "awesome-injection",
-      "stars": 722,
+      "stars": 723,
       "topics": [
         "awesome-list",
         "process-injection"

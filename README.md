@@ -98,7 +98,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Transacted Hollowing
 
-* <https://github.com/hasherezade/transacted_hollowing> ⭐ 609 | 🐛 2 | 🌐 C | 📅 2024-03-08
+* <https://github.com/hasherezade/transacted_hollowing> ⭐ 608 | 🐛 2 | 🌐 C | 📅 2024-03-08
 
 #### Process Doppelganging
 
@@ -111,7 +111,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Ghosting
 
-* <https://github.com/hasherezade/process_ghosting> ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11
+* <https://github.com/hasherezade/process_ghosting> ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11
 
 #### Early Bird
 
@@ -137,7 +137,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### PichichiH0ll0wer - Split Hollowing
 
-* <https://github.com/itaymigdal/PichichiH0ll0wer> ⭐ 63 | 🐛 0 | 🌐 Nim | 📅 2025-07-22
+* <https://github.com/itaymigdal/PichichiH0ll0wer> ⭐ 64 | 🐛 0 | 🌐 Nim | 📅 2025-07-22
 
 ## Process Injection
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,391 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,390 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -181,7 +181,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Atom Bombing Injection
 
-* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 737 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
+* <https://github.com/BreakingMalwareResearch/atom-bombing> ⭐ 738 | 🐛 9 | 🌐 C++ | 📅 2020-10-07
 
 #### Mocking jay Injection
 
@@ -194,7 +194,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Extra Window Memory Injection
 
-* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 385 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
+* <https://github.com/BreakingMalware/PowerLoaderEx> ⭐ 386 | 🐛 3 | 🌐 C++ | 📅 2017-04-17
 * <https://attack.mitre.org/techniques/T1055/011/>
 
 #### ThreadlessInject
@@ -285,4 +285,4 @@ I've been thinking about putting together a list of process injection techniques
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
