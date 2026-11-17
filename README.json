@@ -58,7 +58,7 @@
                     "open_issues": 0,
                     "owner": "kubo",
                     "repo": "injector",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": [
                       "code-injection",
                       "dll-injection",
@@ -163,7 +163,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "transacted_hollowing",
-                    "stars": 608,
+                    "stars": 609,
                     "topics": [
                       "code-injection",
                       "malware",
@@ -196,7 +196,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 649,
+                    "stars": 651,
                     "topics": [
                       "malware",
                       "pe-injector",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3390,
+                    "stars": 3389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -770,7 +770,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 432,
+                    "stars": 433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -983,7 +983,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1291,
+                    "stars": 1292,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:03:33.615Z",
+    "last_updated": "2026-11-17T21:55:25.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
