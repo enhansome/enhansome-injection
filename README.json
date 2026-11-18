@@ -553,7 +553,7 @@
                     "open_issues": 1,
                     "owner": "CCob",
                     "repo": "ThreadlessInject",
-                    "stars": 825,
+                    "stars": 827,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:55:25.441Z",
+    "last_updated": "2026-11-18T21:38:04.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
