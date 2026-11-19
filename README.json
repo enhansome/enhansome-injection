@@ -91,7 +91,7 @@
                     "open_issues": 11,
                     "owner": "DavidBuchanan314",
                     "repo": "dlinject",
-                    "stars": 833,
+                    "stars": 832,
                     "topics": [
                       "assembly",
                       "ld-preload",
@@ -196,7 +196,7 @@
                     "open_issues": 2,
                     "owner": "hasherezade",
                     "repo": "process_doppelganging",
-                    "stars": 651,
+                    "stars": 650,
                     "topics": [
                       "malware",
                       "pe-injector",
@@ -307,7 +307,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Ruy-Lopez",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3389,
+                    "stars": 3391,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -497,7 +497,7 @@
                     "open_issues": 9,
                     "owner": "BreakingMalwareResearch",
                     "repo": "atom-bombing",
-                    "stars": 738,
+                    "stars": 737,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -525,7 +525,7 @@
                     "open_issues": 3,
                     "owner": "BreakingMalware",
                     "repo": "PowerLoaderEx",
-                    "stars": 386,
+                    "stars": 385,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -615,7 +615,7 @@
                     "open_issues": 3,
                     "owner": "Dec0ne",
                     "repo": "DllNotificationInjection",
-                    "stars": 469,
+                    "stars": 468,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -983,7 +983,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1292,
+                    "stars": 1291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1044,7 +1044,7 @@
                     "open_issues": 0,
                     "owner": "hasherezade",
                     "repo": "waiting_thread_hijacking",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1105,7 +1105,7 @@
                     "open_issues": 0,
                     "owner": "RWXstoned",
                     "repo": "LdrShuffle",
-                    "stars": 293,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:38:04.149Z",
+    "last_updated": "2026-11-19T21:52:18.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
