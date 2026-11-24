@@ -228,7 +228,7 @@
                     "open_issues": 1,
                     "owner": "jxy-s",
                     "repo": "herpaderping",
-                    "stars": 1217,
+                    "stars": 1218,
                     "topics": [
                       "antivirus",
                       "antivirus-evasion",
@@ -363,7 +363,7 @@
                     "open_issues": 0,
                     "owner": "0xHossam",
                     "repo": "KernelCallbackTable-Injection-PoC",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3395,
+                    "stars": 3396,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -770,7 +770,7 @@
                     "open_issues": 0,
                     "owner": "S3cur3Th1sSh1t",
                     "repo": "Caro-Kann",
-                    "stars": 432,
+                    "stars": 433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1011,7 +1011,7 @@
                     "open_issues": 1,
                     "owner": "hasherezade",
                     "repo": "thread_namecalling",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1044,7 +1044,7 @@
                     "open_issues": 0,
                     "owner": "hasherezade",
                     "repo": "waiting_thread_hijacking",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": [
                       "processinjection",
                       "redteam",
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:17:03.773Z",
+    "last_updated": "2026-11-24T23:17:28.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",

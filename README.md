@@ -107,7 +107,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Process Herpaderping
 
-* <https://github.com/jxy-s/herpaderping> ⭐ 1,217 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
+* <https://github.com/jxy-s/herpaderping> ⭐ 1,218 | 🐛 1 | 🌐 C++ | 📅 2023-07-05
 
 #### Process Ghosting
 
@@ -133,7 +133,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Kernel Callback Table Injection
 
-* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 275 | 🐛 0 | 🌐 C | 📅 2024-10-31
+* <https://github.com/0xHossam/KernelCallbackTable-Injection-PoC> ⭐ 276 | 🐛 0 | 🌐 C | 📅 2024-10-31
 
 #### PichichiH0ll0wer - Split Hollowing
 
@@ -156,7 +156,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Reflective Dll Injection
 
-* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,395 | 🐛 15 | 🌐 C | 📅 2022-09-03
+* <https://github.com/stephenfewer/ReflectiveDLLInjection> ⭐ 3,396 | 🐛 15 | 🌐 C | 📅 2022-09-03
 * <https://attack.mitre.org/techniques/T1055/001/>
 * <https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection>
 
@@ -227,7 +227,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Caro-Kann
 
-* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 432 | 🐛 0 | 🌐 C | 📅 2023-09-12
+* <https://github.com/S3cur3Th1sSh1t/Caro-Kann> ⭐ 433 | 🐛 0 | 🌐 C | 📅 2023-09-12
 
 #### Stack Bombing
 
@@ -261,12 +261,12 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Thread Name Calling
 
-* <https://github.com/hasherezade/thread_namecalling> ⭐ 312 | 🐛 1 | 🌐 C | 📅 2025-04-18
+* <https://github.com/hasherezade/thread_namecalling> ⭐ 313 | 🐛 1 | 🌐 C | 📅 2025-04-18
 * <https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/>
 
 #### Waiting Thread Hijacking
 
-* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 268 | 🐛 0 | 🌐 C | 📅 2025-08-31
+* <https://github.com/hasherezade/waiting_thread_hijacking> ⭐ 269 | 🐛 0 | 🌐 C | 📅 2025-08-31
 * <https://research.checkpoint.com/2025/waiting-thread-hijacking/>
 
 #### RedirectThread Context Injection
