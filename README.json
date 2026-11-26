@@ -391,7 +391,7 @@
                     "open_issues": 0,
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": [
                       "edr-bypass",
                       "edr-evasion",
@@ -469,7 +469,7 @@
                     "open_issues": 15,
                     "owner": "stephenfewer",
                     "repo": "ReflectiveDLLInjection",
-                    "stars": 3398,
+                    "stars": 3399,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -983,7 +983,7 @@
                     "open_issues": 2,
                     "owner": "SafeBreach-Labs",
                     "repo": "PoolParty",
-                    "stars": 1290,
+                    "stars": 1291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:49:55.409Z",
+    "last_updated": "2026-11-26T22:38:26.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
