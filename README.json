@@ -275,7 +275,7 @@
                     "open_issues": 7,
                     "owner": "hasherezade",
                     "repo": "process_ghosting",
-                    "stars": 699,
+                    "stars": 698,
                     "topics": [
                       "pe-injection",
                       "pe-injector",
@@ -391,7 +391,7 @@
                     "open_issues": 0,
                     "owner": "itaymigdal",
                     "repo": "PichichiH0ll0wer",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": [
                       "edr-bypass",
                       "edr-evasion",
@@ -441,7 +441,7 @@
                     "open_issues": 0,
                     "owner": "DrNseven",
                     "repo": "SetWindowsHookEx-Injector",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -703,7 +703,7 @@
                     "open_issues": 1,
                     "owner": "deepinstinct",
                     "repo": "Dirty-Vanity",
-                    "stars": 677,
+                    "stars": 679,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:56.482Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:38:26.202Z",
+    "last_updated": "2026-11-27T22:23:22.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Centralized resource for listing and organizing known injection techniques and POCs",
